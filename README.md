@@ -13,9 +13,11 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I am a Back End Development Bootcamp grad
+- 🔭 I am currently in Promineo Tech's Back End Development Bootcamp
   
-- 🌱 I’m currently learning Java, SQL, and Spring
+- 🌱 I am currently learning Spring Boot framework
+
+- 🎓 I am an Arizona State Ira A. Fulton School of Engineering grad
   
 - ⚽️ Fun fact: I am a huge soccer guy.
 
@@ -29,3 +31,4 @@
 <a href = 'https://www.linkedin.com/in/charles-dukes/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>  
 <a href = 'https://github.com/DukesGuy'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href = 'https://www.facebook.com/charlie.b.dukes/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a>
+<a href = 'mailto:chbdukes@gmail.com'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gmail.svg"/></a>
