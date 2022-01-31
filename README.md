@@ -11,8 +11,6 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 - 🔭 I am currently in Promineo Tech's Back End Development Bootcamp
   
 - 🌱 I am currently learning Spring Boot framework
