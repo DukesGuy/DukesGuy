@@ -13,7 +13,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently enrolled in the Back End Dvelopment Bootcamp thru Promineo Tech 
+- 🔭 I am a Back End Development Bootcamp grad
   
 - 🌱 I’m currently learning Java, SQL, and Spring
   
