@@ -15,7 +15,7 @@
   
 - 🌱 I am currently learning Spring Boot framework
 
-- 🎓 I am an Arizona State Ira A. Fulton School of Engineering grad
+- 🎓 I am an Arizona State University Ira A. Fulton Schools of Engineering grad
   
 - ⚽️ Fun fact: I am a huge soccer guy
 
