@@ -9,9 +9,9 @@
 
 <h2> About Me </h2>
 
-- 🔭 I am currently in Promineo Tech's Back End Development Bootcamp
+- 🔭 I am recent grad of Promineo Tech's Back End Web Development Bootcamp
   
-- 🌱 I am currently learning Spring Boot framework
+- 🌱 I am currently learning Spring Boot along with Thymeleaf
 
 - 🎓 I am an Arizona State University Ira A. Fulton Schools of Engineering grad
   
